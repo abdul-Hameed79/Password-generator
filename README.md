@@ -23,6 +23,9 @@ Inclusion of special characters
 Click the "Generate Password" button.
 Copy the generated password using the "Copy to Clipboard" button.
 
+# Screen Shot
+![Password Generator](https://github.com/user-attachments/assets/4a28784b-0f13-4edc-b8ed-71c247f48b9b)
+
 # License
 Distributed under the MIT License. See LICENSE for more information.
 
